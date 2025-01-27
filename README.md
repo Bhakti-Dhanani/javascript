@@ -1,3 +1,3 @@
 # javascript
 this  basic concept of JavaScript
-Author- bhakti dhanani
+Author- bhakti Dhanani from surat
